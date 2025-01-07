@@ -5,5 +5,6 @@
 Since Roblox Studio project cannot be directly exported to GitHub, this repository shows sample client + server code from the full game of Tide Tales.
 
 Game Trailer: https://www.youtube.com/watch?v=c9b7G1hEuK8&list=PLS3u98jelw54k7Eq4TbZJg0-fRQ-qbuSs
+
 Game Link: https://www.roblox.com/games/10060880928/FREE-BOAT-Tide-Tales-V2
 
